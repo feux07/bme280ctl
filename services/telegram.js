@@ -57,4 +57,4 @@ function sendToUser(to, message) {
   }
 }
 
-export { sendToUser, initializeTelegramBot };
+export { sendToUser, initializeTelegramBot, bot };
